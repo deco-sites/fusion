@@ -26,7 +26,7 @@ export interface Nav {
 export default function Header({
   logo = {
     src:
-      "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/61b10e05-7bf1-491a-8b5f-033382ddebad",
+      "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/ca005010-c97e-4e19-9d60-198808a0991b",
     alt: "Logo",
 //    <p> Svara </p> // Set your company name here
   },
