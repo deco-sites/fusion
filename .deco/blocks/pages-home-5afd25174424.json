@@ -46,7 +46,62 @@
     },
     {
       "__resolveType": "site/sections/Testimonials.tsx",
-      "arrows": true
+      "arrows": true,
+      "title": "Hear it from our Customers!!",
+      "slides": [
+        {
+          "content": {
+            "description": "\"The Veena I purchased from here exceeded my expectations! The craftsmanship is beautiful, and the sound is incredibly rich and authentic. It’s been a joy to play and explore this wonderful instrument. Thank you for preserving such a significant part of Indian musical heritage!\"",
+            "alt": "Ananya S.",
+            "name": "Ananya S.",
+            "avatar": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/a0c47db8-06d4-4fca-bcd9-72a643836d6f",
+            "position": "PROFESSIONAL ARTIST"
+          }
+        },
+        {
+          "content": {
+            "description": "\"I’ve been playing the Veena for years, and the one I got from this store is by far the best I’ve ever had. The attention to detail is impressive, and it really enhances my practice sessions. Highly recommend for anyone serious about Indian classical music!\"",
+            "alt": "Ravi K.",
+            "position": "BAND HEAD",
+            "name": "Ravi K.",
+            "avatar": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/52cffb68-3fd9-4af7-b44f-9822be83ad33"
+          }
+        },
+        {
+          "content": {
+            "description": "\"The Veena arrived quickly and was beautifully packaged. It was ready to play right out of the box, and the sound quality is fantastic. It’s clear that a lot of care went into crafting this instrument. I’m thrilled with my purchase!\"",
+            "avatar": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/bcec07bc-7422-4413-8f69-d8eb5448f352",
+            "alt": "Meera P.",
+            "name": "Meera P.",
+            "position": "CLASSICALS MUSIC BAND HEAD"
+          }
+        },
+        {
+          "content": {
+            "description": "\"From the easy ordering process to the exceptional quality of the instrument, everything about this purchase has been fantastic. I’m very happy with my new instrument and the overall experience. Highly recommended!\"",
+            "avatar": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/bd71b211-8dbe-4baf-932a-988223c184b0",
+            "alt": "Praveen C.",
+            "position": "INSTRUMENT PLAYER",
+            "name": "Praveen C."
+          }
+        },
+        {
+          "content": {
+            "description": "\"I had a great experience purchasing from this store. The instruments are of high quality, and the staff was knowledgeable and supportive. I’m very satisfied with my purchase and will definitely return for future needs!\"",
+            "alt": "Pooja T.",
+            "name": "Pooja T.",
+            "avatar": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/3598c251-fac5-4cba-8d4d-71852c3eda8c"
+          }
+        },
+        {
+          "content": {
+            "description": "\"I’ve bought several instruments from this store, and each time I’ve been impressed with the quality and service. The instruments are beautiful and well-crafted, and the customer service is always friendly and helpful.\"",
+            "alt": "Amit S.",
+            "name": "Amit S.",
+            "avatar": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/3edb8102-d6a1-431e-b81d-820238226c1d"
+          }
+        }
+      ]
     },
     {
       "__resolveType": "site/sections/Faq.tsx",
