@@ -7,16 +7,12 @@
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<p>Affordable Indian Instruments</p>",
+      "title": "<h1>Discover </h1><h1>Wallet-Friendly Indian Instruments</h1>",
       "description": "Discover the beauty of traditional Indian music with our range of handcrafted instruments, now available at lower prices. By choosing our products, you not only enjoy authentic sounds but also support the skilled artisans who create them, helping to sustain their craft and livelihood. "
     },
     {
       "__resolveType": "site/sections/Logos.tsx",
-      "title": "Rhythms of India",
-      "logos": [
-        {},
-        {}
-      ]
+      "title": "Rhythms of India"
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
@@ -29,8 +25,8 @@
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
       "title": "Tabla",
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/e5fd73d3-bdb8-4169-9a57-378c1754dd6b",
-      "placement": "right",
-      "tagline": "The Heartbeat of Indian Rhythm"
+      "tagline": "The Heartbeat of Indian Rhythm",
+      "placement": "right"
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
@@ -42,10 +38,10 @@
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/926929b0-5a52-4e04-87c0-a6ea0d734624",
-      "placement": "right",
       "title": "Flute",
       "description": "Experience the enchanting allure of the Flute, an instrument that embodies the essence of serene and captivating melodies. With its delicate, airy tones, the Flute weaves a tapestry of sound that connects the ancient traditions of Indian music with contemporary expression. Each Flute is crafted with care, ensuring a rich, resonant sound that transforms every breath into a moment of musical beauty. Discover how the Flute can elevate your music and inspire a peaceful, melodious journey.",
-      "tagline": " The Breath of Melodic Serenity"
+      "tagline": " The Breath of Melodic Serenity",
+      "placement": "right"
     },
     {
       "__resolveType": "site/sections/BlogPosts.tsx",
@@ -83,8 +79,8 @@
     },
     {
       "__resolveType": "site/sections/Testimonials.tsx",
-      "arrows": true,
       "title": "Hear it from our Customers!!",
+      "arrows": true,
       "slides": [
         {
           "content": {

@@ -43,7 +43,7 @@ export interface Props {
 export default function Footer({
   logo = {
     src:
-      "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1527/67120bcd-936a-4ea5-a760-02ed5c4a3d04",
+      "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/8d3a4dbe-7f79-4922-b482-b886c050d581",
     alt: "Logo",
   },
   links = [
@@ -81,7 +81,7 @@ export default function Footer({
   subscribe = {
     title: "Subcribe",
     description:
-      "Join our newsletter to stay up to date on features and releases.",
+      "Join our newsletter to stay up to date on new releases.",
     instructions:
       "By subscribing you agree to with our <a href='/' target='_blank' class='link'>Privacy Policy</a> and provide consent to receive updates from our company.",
   },

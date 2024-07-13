@@ -27,8 +27,7 @@ export default function Header({
   logo = {
     src:
       "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/87b9ed23-77ce-4d87-a530-b3d45f55b303",
-    alt: "Logo",
-    companyName: "Sitar", // Set your company name here
+    alt: "Logo", // Set your company name here
   },
   navigation = {
     links: [
@@ -88,14 +87,6 @@ export default function Header({
           htmlFor="mobile-drawer-nav"
           class="flex lg:hidden btn btn-ghost drawer-button"
         >
-          <div class="flex items-center">
-            <a href="/">
-              <Image src={logo.src || ""} width={100} height={100} alt={logo.alt} />
-            </a>
-            {logo.companyName && (
-              <span class="ml-2 text-xl font-bold">{logo.companyName}</span>
-            )}
-          </div>
 
           <Icon id="Bars3" size={24} strokeWidth={0.1} />
         </label>

@@ -14,7 +14,7 @@ export interface Props {
 
 const IMG_PLACEHODLER = Array(30).fill(0).map(() => ({
   src:
-    "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/72550667-8e2e-4096-a773-97adf415c389",
+    "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/87b9ed23-77ce-4d87-a530-b3d45f55b303",
   altText: "Logo",
 }));
 
