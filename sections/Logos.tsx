@@ -14,7 +14,7 @@ export interface Props {
 
 const IMG_PLACEHODLER = Array(30).fill(0).map(() => ({
   src:
-    "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1527/03fbcc78-ca86-4616-a59a-b8aa18331a9c",
+    "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/72550667-8e2e-4096-a773-97adf415c389",
   altText: "Logo",
 }));
 
@@ -30,7 +30,7 @@ export default function Logos({
             src={logo.src || ""}
             alt={logo.altText || ""}
             width={110}
-            height={25}
+            height={50}
           />
         );
       })}

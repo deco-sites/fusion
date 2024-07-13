@@ -22,7 +22,7 @@ export default function BlogPosts({
   title = "FAQs",
   description =
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.",
-  cta = { id: "change-me", href: "/", text: "Change me", outline: true },
+  cta = { id: "change-me", href: "/", text: "Read More", outline: true },
   questions = [
     {
       title: "Question #1 text goes here",
