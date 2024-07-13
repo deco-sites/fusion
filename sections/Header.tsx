@@ -28,7 +28,7 @@ export default function Header({
     src:
       "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/87b9ed23-77ce-4d87-a530-b3d45f55b303",
     alt: "Logo",
-    <p> Svara </p> // Set your company name here
+    // <p> Svara </p> // Set your company name here
   },
   navigation = {
     links: [
