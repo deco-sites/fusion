@@ -42,7 +42,25 @@
       "description": "Experience the enchanting allure of the Flute, an instrument that embodies the essence of serene and captivating melodies. With its delicate, airy tones, the Flute weaves a tapestry of sound that connects the ancient traditions of Indian music with contemporary expression. Each Flute is crafted with care, ensuring a rich, resonant sound that transforms every breath into a moment of musical beauty. Discover how the Flute can elevate your music and inspire a peaceful, melodious journey."
     },
     {
-      "__resolveType": "site/sections/BlogPosts.tsx"
+      "__resolveType": "site/sections/BlogPosts.tsx",
+      "title": "Blog posts",
+      "description": "Know more about history of each instrument",
+      "posts": [
+        {
+          "tags": [],
+          "title": "Veena ",
+          "author": "Ravi Shankar",
+          "excerpt": "The Veena is a string instrument originating in India. The Veena instrument & its variants play an important role in Hindustani classical and Carnatic ...",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/b7fa73c9-9774-4474-ae79-63f9419e8ffa",
+          "date": "7/13/2024",
+          "readingTime": "10 minutes"
+        },
+        {
+          "tags": [],
+          "title": "Tabla",
+          "author": "Zakir Hussain"
+        }
+      ]
     },
     {
       "__resolveType": "site/sections/Testimonials.tsx",
