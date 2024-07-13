@@ -29,7 +29,7 @@ export default function Logos({
           <Image
             src={logo.src || ""}
             alt={logo.altText || ""}
-            width={110}
+            width={40}
             height={50}
           />
         );

@@ -14,6 +14,7 @@
       "__resolveType": "site/sections/Logos.tsx",
       "title": "Rhythms of India",
       "logos": [
+        {},
         {}
       ]
     },
@@ -57,8 +58,8 @@
           "author": "Ravi Shankar",
           "excerpt": "The Veena is a string instrument originating in India. The Veena instrument & its variants play an important role in Hindustani classical and Carnatic ...",
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/b7fa73c9-9774-4474-ae79-63f9419e8ffa",
-          "date": "13/7/2024",
-          "readingTime": "10 minutes"
+          "date": "12/10/2012",
+          "readingTime": "10 minutes ago"
         },
         {
           "tags": [],
@@ -66,7 +67,7 @@
           "author": "Zakir Hussain",
           "excerpt": "Although the tabla does not actually produce those tones, they sound incredibly poetic when spoken.",
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/9893da01-96e3-431a-908a-f5845774baeb",
-          "date": "10/7/2024",
+          "date": "10/7/2013",
           "readingTime": "8 weeks ago"
         },
         {
@@ -75,8 +76,8 @@
           "author": "Milind Kulkarni",
           "excerpt": "A harmonium, also called a \"reed organ\" or \"pump organ\", is a keyboard instrument that is a lot like an organ. It makes sound by blowing air through reeds, ...",
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/f669f189-5ac8-48b1-9743-0bc1c7b4a752",
-          "date": "7/7/2024",
-          "readingTime": "15 minutes"
+          "date": "7/7/2014",
+          "readingTime": "15 minutes ago"
         }
       ]
     },
