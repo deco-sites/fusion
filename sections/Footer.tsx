@@ -44,7 +44,7 @@ export default function Footer({
   logo = {
     src:
       "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/8d3a4dbe-7f79-4922-b482-b886c050d581",
-    alt: "Logo",
+     alt: "Logo",
   },
   links = [
     {
