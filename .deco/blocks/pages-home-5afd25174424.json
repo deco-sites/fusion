@@ -16,32 +16,32 @@
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
-      "title": "Veena",
-      "tagline": "The Soulful Strings of Tradition",
-      "description": "Unleash the divine harmony of the Veena, a symbol of grace and tradition in Indian classical music. Its celestial sound, with strings tuned to perfection, invites you to explore a world of profound musical expression. Each Veena is a work of art, crafted by skilled artisans whose devotion to their craft ensures an instrument of exceptional beauty and resonance. Embrace the legacy of the Veena and experience the serene beauty of Indian music in every note.",
-      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/6c664898-f5b6-411b-842d-71ac070c29eb"
-    },
-    {
-      "__resolveType": "site/sections/ImageWithParagraph.tsx",
-      "title": "Tabla",
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/e5fd73d3-bdb8-4169-9a57-378c1754dd6b",
-      "tagline": "The Heartbeat of Indian Rhythm",
-      "placement": "right"
+      "placement": "right",
+      "title": "The Heartbeat of Indian Rhythm",
+      "tagline": "TABLA"
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
-      "title": "Harmonium",
+      "title": "Uniting Tradition with Timeless Harmony",
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/9305245b-cd30-4c96-94ba-551c4c760c8b",
-      "tagline": "Uniting Tradition with Timeless Harmony",
+      "tagline": "HARMONIUM",
       "description": "Discover the rich, resonant tones of the Harmonium, a staple of Indian classical and devotional music. Crafted with precision, this instrument offers a unique blend of melodic depth and harmonic richness, perfect for both solo performances and ensemble settings. Each Harmonium is carefully made to enhance your musical expressions, from gentle lullabies to vibrant ragas. Embrace the profound beauty of this time-honored instrument and let its harmonious sounds inspire your musical journey."
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "title": " The Breath of Melodic Serenity",
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/926929b0-5a52-4e04-87c0-a6ea0d734624",
-      "title": "Flute",
+      "tagline": "FLUTE",
       "description": "Experience the enchanting allure of the Flute, an instrument that embodies the essence of serene and captivating melodies. With its delicate, airy tones, the Flute weaves a tapestry of sound that connects the ancient traditions of Indian music with contemporary expression. Each Flute is crafted with care, ensuring a rich, resonant sound that transforms every breath into a moment of musical beauty. Discover how the Flute can elevate your music and inspire a peaceful, melodious journey.",
-      "tagline": " The Breath of Melodic Serenity",
       "placement": "right"
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/6c664898-f5b6-411b-842d-71ac070c29eb",
+      "title": "The Soulful Strings of Tradition",
+      "description": "Unleash the divine harmony of the Veena, a symbol of grace and tradition in Indian classical music. Its celestial sound, with strings tuned to perfection, invites you to explore a world of profound musical expression. Each Veena is a work of art, crafted by skilled artisans whose devotion to their craft ensures an instrument of exceptional beauty and resonance. Embrace the legacy of the Veena and experience the serene beauty of Indian music in every note.",
+      "tagline": "VEENA"
     },
     {
       "__resolveType": "site/sections/BlogPosts.tsx",
