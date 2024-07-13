@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/apps/deco/records.ts",
+  "url": "libsql://fusion-decocx.turso.io",
+  "authToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "DATABASE_AUTH_TOKEN",
+    "encrypted": "8b15183294a81628adbd880a6da3811ee9d4c5b51028a074d19fbbb28fcd6bd8e4b5250e3309598fcf9eccd7d360cefe138b46b8a3a75c298ec4d7a4249fad3489d4e372521cd6483c95f9cb0711838294dc2b3755695a258ba2424e10e61e3124d568f08bfbe2f9986eb201b9d6fc0659ffa712ae2c00ddc7cf6d9bebb0d00b920380b8f88d346ac81ab1b9645bc587e0117ba38d2083338ad8ff2af2f99357cb8dd87b6bc3d632a4e6921dc8a42207cb61897c8cd6bbb9ac0ea0ab3178270a07ef7d87dbff19caa89bc9e46b5f108477c1121752f26487103985793336b1ed"
+  }
+}
