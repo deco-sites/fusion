@@ -26,7 +26,7 @@ export interface Nav {
 export default function Header({
   logo = {
     src:
-      "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/ca005010-c97e-4e19-9d60-198808a0991b",
+      "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/38cd8eda-2fe8-4252-88b0-f14506abbb97",
     alt: "Logo",
 //    <p> Svara </p> // Set your company name here
   },
@@ -50,7 +50,7 @@ export default function Header({
       {/* main content */}
       <div class="drawer-content container lg:px-0 px-4 flex gap-8 items-center justify-between py-4">
         <a href="/">
-          <Image src={logo.src || ""} width={100} height={100} alt={logo.alt} />
+          <Image src={logo.src || ""} width={250} height={100} alt={logo.alt} />
         </a>
 
         <div class="hidden items-center justify-between lg:flex w-full">
@@ -106,8 +106,8 @@ export default function Header({
           <a class="p-4" href="/">
             <Image
               src={logo.src || ""}
-              width={100}
-              height={28}
+              width={40}
+              height={30}
               alt={logo.alt}
             />
           </a>

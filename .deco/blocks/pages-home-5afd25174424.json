@@ -13,8 +13,7 @@
     },
     {
       "__resolveType": "site/sections/Logos.tsx",
-      "title": "Rhythms of India",
-      "logos": []
+      "title": "Rhythms of India"
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
@@ -174,7 +173,8 @@
       "__resolveType": "site/sections/Footer.tsx",
       "subscribe": {
         "title": "Subscribe Today",
-        "description": "Sign up to get the latest updates, and never miss the awesome deals on your favorite products."
+        "description": "Sign up to get the latest updates, and never miss the awesome deals on your favorite products.",
+        "instructions": "<p>Thank You!!!</p>"
       },
       "logo": {
         "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/8d3a4dbe-7f79-4922-b482-b886c050d581"
@@ -270,6 +270,9 @@
           "title": "Our policies"
         }
       ]
+    },
+    {
+      "__resolveType": "Header"
     }
   ],
   "__resolveType": "website/pages/Page.tsx",

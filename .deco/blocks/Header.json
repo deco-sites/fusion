@@ -2,14 +2,13 @@
   "__resolveType": "site/sections/Header.tsx",
   "navigation": {
     "links": [
-      {
-        "label": "About Us"
-      },
       {},
-      {
-        "label": "Learn More"
-      }
+      {},
+      {}
     ],
     "buttons": []
+  },
+  "logo": {
+    "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/38cd8eda-2fe8-4252-88b0-f14506abbb97"
   }
 }
