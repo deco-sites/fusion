@@ -35,8 +35,8 @@ export default function HeroFlats({
   image,
   placement = "left",
   cta = [
-    { id: "change-me-1", href: "/", text: "Sign Up", outline: false },
-    { id: "change-me-2", href: "/", text: "Login", outline: true },
+    { id: "change-me-1", href: "/", text: "Order Now", outline: false },
+    { id: "change-me-2", href: "/", text: "Explore", outline: true },
   ],
 }: Props) {
   return (

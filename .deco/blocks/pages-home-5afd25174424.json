@@ -37,16 +37,7 @@
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<h1 style=\"text-align: justify\">\r\n  <strong><span style=\"font-size: 36pt\">\r\n    Discover Wallet-Friendly\r\n     Indian Instruments</span>\r\n     </strong></h1><p \r\n     style=\"text-align: center\">\r\n     </p>",
-      "description": "Discover the beauty of traditional Indian music with our range of handcrafted instruments, now available at lower prices. By choosing our products, you not only enjoy authentic sounds but also support the skilled artisans who create them, helping to sustain their craft and livelihood. ",
-      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/02bdc0a8-2ab4-425a-b094-c8bc0332ee12"
-    },
-    {
-      "__resolveType": "site/sections/ImageWithParagraph.tsx",
-      "title": "Discover Wallet-Friendly Indian Instruments",
-      "description": "Discover the beauty of traditional Indian music with our range of handcrafted instruments, now available at lower prices. By choosing our products, you not only enjoy authentic sounds but also support the skilled artisans who create them, helping to sustain their craft and livelihood. ",
-      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/eae4b32b-db6d-4a5c-8cfe-e4d477ad5c01",
-      "placement": "left"
+      "title": "<p></p>"
     },
     {
       "__resolveType": "site/sections/Logos.tsx",
@@ -59,24 +50,24 @@
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "title": "TABLA",
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/e5fd73d3-bdb8-4169-9a57-378c1754dd6b",
       "tagline": "The Heartbeat of Indian Rhythm",
-      "title": "TABLA",
       "placement": "right"
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/9305245b-cd30-4c96-94ba-551c4c760c8b",
-      "description": "Discover the rich, resonant tones of the Harmonium, a staple of Indian classical and devotional music. Crafted with precision, this instrument offers a unique blend of melodic depth and harmonic richness, perfect for both solo performances and ensemble settings. Each Harmonium is carefully made to enhance your musical expressions, from gentle lullabies to vibrant ragas. Embrace the profound beauty of this time-honored instrument and let its harmonious sounds inspire your musical journey.",
       "tagline": "Uniting Tradition with Timeless Harmony",
-      "title": "HARMONIUM"
+      "title": "HARMONIUM",
+      "description": "Discover the rich, resonant tones of the Harmonium, a staple of Indian classical and devotional music. Crafted with precision, this instrument offers a unique blend of melodic depth and harmonic richness, perfect for both solo performances and ensemble settings. Each Harmonium is carefully made to enhance your musical expressions, from gentle lullabies to vibrant ragas. Embrace the profound beauty of this time-honored instrument and let its harmonious sounds inspire your musical journey."
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
-      "title": "FLUTE",
-      "description": "Experience the enchanting allure of the Flute, an instrument that embodies the essence of serene and captivating melodies. With its delicate, airy tones, the Flute weaves a tapestry of sound that connects the ancient traditions of Indian music with contemporary expression. Each Flute is crafted with care, ensuring a rich, resonant sound that transforms every breath into a moment of musical beauty. Discover how the Flute can elevate your music and inspire a peaceful, melodious journey.",
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/926929b0-5a52-4e04-87c0-a6ea0d734624",
+      "description": "Experience the enchanting allure of the Flute, an instrument that embodies the essence of serene and captivating melodies. With its delicate, airy tones, the Flute weaves a tapestry of sound that connects the ancient traditions of Indian music with contemporary expression. Each Flute is crafted with care, ensuring a rich, resonant sound that transforms every breath into a moment of musical beauty. Discover how the Flute can elevate your music and inspire a peaceful, melodious journey.",
       "tagline": " The Breath of Melodic Serenity",
+      "title": "FLUTE",
       "placement": "right"
     },
     {
