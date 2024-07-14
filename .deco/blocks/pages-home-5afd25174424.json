@@ -37,7 +37,8 @@
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<p><img src=\"https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/cdb05a77-f2be-4686-a0e1-727c67166664\" w></p>"
+      "title": "<p><img src=\"https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/c8a793f1-4b98-4767-ad39-7a91fad27b9b\"></p>",
+      "description": "Discover the beauty of traditional Indian music with our range of  handcrafted instruments, now available at lower prices.  By choosing our products, you not only enjoy authentic sounds but also support  the skilled artisans who create them, helping to sustain their craft and livelihood."
     },
     {
       "__resolveType": "site/sections/Logos.tsx",
