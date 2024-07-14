@@ -37,14 +37,16 @@
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<h1 style=\"text-align: justify\"><strong><span style=\"font-size: 36pt\">Discover Wallet-Friendly Indian Instruments</span></strong></h1><p style=\"text-align: center\"></p>",
+      "title": "<h1 style=\"text-align: justify\">\r\n  <strong><span style=\"font-size: 36pt\">\r\n    Discover Wallet-Friendly\r\n     Indian Instruments</span>\r\n     </strong></h1><p \r\n     style=\"text-align: center\">\r\n     </p>",
       "description": "Discover the beauty of traditional Indian music with our range of handcrafted instruments, now available at lower prices. By choosing our products, you not only enjoy authentic sounds but also support the skilled artisans who create them, helping to sustain their craft and livelihood. ",
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/fa032662-e97c-40fe-916e-19c15bae7072"
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
       "title": "Discover Wallet-Friendly Indian Instruments",
-      "description": "Discover the beauty of traditional Indian music with our range of handcrafted instruments, now available at lower prices. By choosing our products, you not only enjoy authentic sounds but also support the skilled artisans who create them, helping to sustain their craft and livelihood. "
+      "description": "Discover the beauty of traditional Indian music with our range of handcrafted instruments, now available at lower prices. By choosing our products, you not only enjoy authentic sounds but also support the skilled artisans who create them, helping to sustain their craft and livelihood. ",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/12e27f82-49c5-49ba-b2ec-a574b4bae8ed",
+      "placement": "left"
     },
     {
       "__resolveType": "site/sections/Logos.tsx",

@@ -34,13 +34,13 @@ export default function ImageWithParagraph({
   title = "Here's an intermediate size heading you can edit",
   description =
     "This text is fully editable and ready for your personal touch. Just click here, head over to the section window, or dive straight into the code to make changes as you see fit. Whether it's about the content, formatting, font, or anything in between, editing is just a click away.",
-  tagline = "Tagline",
+  tagline = "",
   image = DEFAULT_IMAGE,
   placement = "left",
   disableSpacing,
   cta = [
     { id: "change-me-1", href: "/", text: "Order Now", style: "Outline" },
-    { id: "change-me-2", href: "/", text: "View", style: "Ghost" },
+    { id: "change-me-2", href: "/", text: "Explore", style: "Ghost" },
   ],
 }: Props) {
   return (
