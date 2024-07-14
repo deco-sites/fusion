@@ -7,41 +7,48 @@
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<h1>Discover </h1><h1>Wallet-Friendly Indian Instruments</h1>",
-      "description": "Discover the beauty of traditional Indian music with our range of handcrafted instruments, now available at lower prices. By choosing our products, you not only enjoy authentic sounds but also support the skilled artisans who create them, helping to sustain their craft and livelihood. "
+      "title": "<h1 style=\"text-align: justify\"><strong><span style=\"font-size: 36pt\">Discover Wallet-Friendly Indian Instruments</span></strong></h1><p style=\"text-align: center\"></p>",
+      "description": "Discover the beauty of traditional Indian music with our range of handcrafted instruments, now available at lower prices. By choosing our products, you not only enjoy authentic sounds but also support the skilled artisans who create them, helping to sustain their craft and livelihood. ",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/fa032662-e97c-40fe-916e-19c15bae7072"
     },
     {
       "__resolveType": "site/sections/Logos.tsx",
-      "title": "Rhythms of India"
+      "title": "Rhythms of India",
+      "logos": []
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/e5fd73d3-bdb8-4169-9a57-378c1754dd6b",
       "placement": "right",
-      "title": "The Heartbeat of Indian Rhythm",
-      "tagline": "TABLA"
+      "tagline": "The Heartbeat of Indian Rhythm",
+      "title": "TABLA"
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
-      "title": "Uniting Tradition with Timeless Harmony",
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/9305245b-cd30-4c96-94ba-551c4c760c8b",
-      "tagline": "HARMONIUM",
-      "description": "Discover the rich, resonant tones of the Harmonium, a staple of Indian classical and devotional music. Crafted with precision, this instrument offers a unique blend of melodic depth and harmonic richness, perfect for both solo performances and ensemble settings. Each Harmonium is carefully made to enhance your musical expressions, from gentle lullabies to vibrant ragas. Embrace the profound beauty of this time-honored instrument and let its harmonious sounds inspire your musical journey."
+      "tagline": "Uniting Tradition with Timeless Harmony",
+      "description": "Discover the rich, resonant tones of the Harmonium, a staple of Indian classical and devotional music. Crafted with precision, this instrument offers a unique blend of melodic depth and harmonic richness, perfect for both solo performances and ensemble settings. Each Harmonium is carefully made to enhance your musical expressions, from gentle lullabies to vibrant ragas. Embrace the profound beauty of this time-honored instrument and let its harmonious sounds inspire your musical journey.",
+      "title": "HARMONIUM"
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
-      "title": " The Breath of Melodic Serenity",
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/926929b0-5a52-4e04-87c0-a6ea0d734624",
-      "tagline": "FLUTE",
+      "tagline": " The Breath of Melodic Serenity",
       "description": "Experience the enchanting allure of the Flute, an instrument that embodies the essence of serene and captivating melodies. With its delicate, airy tones, the Flute weaves a tapestry of sound that connects the ancient traditions of Indian music with contemporary expression. Each Flute is crafted with care, ensuring a rich, resonant sound that transforms every breath into a moment of musical beauty. Discover how the Flute can elevate your music and inspire a peaceful, melodious journey.",
-      "placement": "right"
+      "placement": "right",
+      "title": "FLUTE"
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/6c664898-f5b6-411b-842d-71ac070c29eb",
-      "title": "The Soulful Strings of Tradition",
       "description": "Unleash the divine harmony of the Veena, a symbol of grace and tradition in Indian classical music. Its celestial sound, with strings tuned to perfection, invites you to explore a world of profound musical expression. Each Veena is a work of art, crafted by skilled artisans whose devotion to their craft ensures an instrument of exceptional beauty and resonance. Embrace the legacy of the Veena and experience the serene beauty of Indian music in every note.",
-      "tagline": "VEENA"
+      "tagline": "The Soulful Strings of Tradition",
+      "title": "VEENA",
+      "placement": "left",
+      "disableSpacing": {
+        "top": false,
+        "bottom": false
+      }
     },
     {
       "__resolveType": "site/sections/BlogPosts.tsx",
@@ -164,7 +171,105 @@
       "description": "Here’s a comprehensive list of frequently asked questions (FAQs) for various Indian musical instruments, including the Veena, Tabla, Sitar, Harmonium, and Flute. Each FAQ section includes common questions and answers to help customers learn more about the instruments and make informed decisions."
     },
     {
-      "__resolveType": "Footer"
+      "__resolveType": "site/sections/Footer.tsx",
+      "subscribe": {
+        "title": "Subscribe Today",
+        "description": "Sign up to get the latest updates, and never miss the awesome deals on your favorite products."
+      },
+      "logo": {
+        "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/8d3a4dbe-7f79-4922-b482-b886c050d581"
+      },
+      "social": [
+        {
+          "network": "Instagram",
+          "href": "@svara_ig"
+        },
+        {
+          "network": "Facebook",
+          "href": "@svara_fb"
+        },
+        {
+          "network": "Linkedin",
+          "href": "@svara_li"
+        },
+        {
+          "network": "X - Twitter",
+          "href": "@svara_x"
+        },
+        {
+          "network": "Youtube",
+          "href": "@svara_yt"
+        }
+      ],
+      "links": [
+        {
+          "items": [
+            {
+              "label": "Instagram",
+              "href": "@svara_ig"
+            },
+            {
+              "label": "Facebook",
+              "href": "@svara_fb"
+            },
+            {
+              "label": "Linked In",
+              "href": "@svara_li"
+            },
+            {
+              "label": "X- Twitter",
+              "href": "@svara_x"
+            },
+            {
+              "label": "Youtube",
+              "href": "@svara_yt"
+            }
+          ],
+          "title": "Follow Us On"
+        },
+        {
+          "items": [
+            {
+              "label": "Veena",
+              "href": "learnveena.com"
+            },
+            {
+              "label": "Tabla",
+              "href": "learntabla.com"
+            },
+            {
+              "label": "Flute",
+              "href": "learnflute.com"
+            },
+            {
+              "label": "Harmonium",
+              "href": "learnharmonium.com"
+            },
+            {
+              "label": "More",
+              "href": "moreinstruments.com"
+            }
+          ],
+          "title": "Instruments"
+        },
+        {
+          "items": [
+            {
+              "label": "Privacy Policy",
+              "href": "privacypolicy.com"
+            },
+            {
+              "label": "Cookies Settings",
+              "href": "Cookies.com"
+            },
+            {
+              "label": "Terms of Service",
+              "href": "termsofservice.com"
+            }
+          ],
+          "title": "Our policies"
+        }
+      ]
     }
   ],
   "__resolveType": "website/pages/Page.tsx",
