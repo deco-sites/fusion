@@ -69,7 +69,7 @@ export default function ImageWithParagraph({
             {tagline}
           </p>
           <p class="text-5xl leading-snug">
-            {title}
+            <strong>{title}</strong>
           </p>
           <p class="leading-normal">
             {description}
