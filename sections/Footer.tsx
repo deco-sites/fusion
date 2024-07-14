@@ -43,7 +43,7 @@ export interface Props {
 export default function Footer({
   logo = {
     src:
-      "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/8d3a4dbe-7f79-4922-b482-b886c050d581",
+      "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/a73b74d4-d5ce-414f-b97f-27cc5dd49fdf",
      alt: "Logo",
   },
   links = [
@@ -112,7 +112,7 @@ export default function Footer({
           <div>
             <Image
               src={logo.src || ""}
-              width={100}
+              width={300}
               height={100}
               alt={logo.alt}
             />
