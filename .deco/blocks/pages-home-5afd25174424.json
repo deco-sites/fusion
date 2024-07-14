@@ -37,7 +37,7 @@
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<p></p>"
+      "title": "<p><img src=\"https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11725/cdb05a77-f2be-4686-a0e1-727c67166664\" w></p>"
     },
     {
       "__resolveType": "site/sections/Logos.tsx",
